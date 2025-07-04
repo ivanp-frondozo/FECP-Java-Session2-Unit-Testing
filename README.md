@@ -1,9 +1,8 @@
-# Lab 1: Build a Java Bank Account System
+# Lab 2: Unit Testingystem
 
 **Name:** Ivan Patrick Frondozo  
-**Project Title:** Java OOP Lab 1 - Bank Account System
+**Project Title:** Java OOP Lab 2 - Unit Testing
 
 ## Screenshots
 ![Output](images/Screenshot-Output1.png)
 ![Output](images/Screenshot-Output2.png)
-![Output](images/Screenshot-Output3.png)
